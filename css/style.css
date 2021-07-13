@@ -1,0 +1,48 @@
+.text1 {
+	float: right;
+}
+.text2 {
+	float: right;
+}
+.wraper {
+	background-color: red;
+}
+.clear {
+	clear: both;
+}
+/*img {
+	float: left;
+}*/
+/*.text-wraper {
+	float: right;
+}*/
+li {
+	display: inline-block;
+}
+nav {
+	float: left;
+}
+.icon {
+	float: right;
+}
+header  {
+	background-color: #06185F;
+}
+.contain {
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+}
+footer {
+	background-color: white;
+}
+
+input {
+	background-color: #5757bd;
+    height: 30px;
+    border: 2px solid black;
+    color: #ffeb3b;
+}
+input:focus {
+	border: 4px dotted orange;
+}
